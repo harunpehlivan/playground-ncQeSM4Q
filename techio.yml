@@ -1,4 +1,4 @@
-title: Simple C# Template
+title: Garbage Collection and C#
 plan:
 - title: C# Snippet
-  statement: statement.md
+  statement: markdowns/welcome.md
