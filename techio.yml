@@ -1,4 +1,4 @@
 title: Garbage Collection and C#
 plan:
 - title: C# Snippet
-  statement: markdowns/welcome.md
+  statement: statement.md
